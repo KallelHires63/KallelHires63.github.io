@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+
+<html>
+
+  <head>
+    <title>project.html</title>
+  </head>
+  
+  
+  <body>
+   
+   <h1>Hello World</h1>
+     
+     <a target="blank" href=http://thoughtcatalog.com/caroline-dunway/2014/03/9-reasons-why-you-should-visit-Tokyo/"Details About Tokyo</a>
+     
+     <h2>PLace I would like to visit</h2>
+       
+       <p>I would like to visit Tokyo, japan due to the food, technology and culture.</p>
+         
+        <h2>A person I admire(past or present)</h2>
+           
+        <p>A person I admire is Robin Williams because he always knew how to make people smile no matter what</p>
+           
+        <h2>Favorite Fruit</h2>
+              
+         <ul>
+           
+           <li>apples</li>
+           
+           <li>oranges</li>
+           
+           <li>bananas</li>
+          
+           <li>mangos</li>
+       
+       </ul>  
+        
+        <h2>Favorite presidents</h2>
+         
+         <ul>
+         
+         <li>Abraham Lincoln</li>
+         <li>George Washington</li>
+         <li>John F. Kennedy</li>
+         <li>Bill Clinton</li>
+         
+         </ul>
